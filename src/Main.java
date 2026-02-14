@@ -3,5 +3,5 @@
 void main() {
     System.out.println("hola mundo");
     System.out.println("comando git")
-    System.out.println("Steven Moreno Bojacá PHYTON")
+    System.out.println("Steven Moreno Bojacá C++")
 }
